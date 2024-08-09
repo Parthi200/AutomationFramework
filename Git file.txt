@@ -1,0 +1,263 @@
+Black box testing:
+-----------------
+     System testing comes under the block box testing
+     internally we can't see this
+white box testing:
+------------------
+     unit testing & integration testing comes under the White box testing 
+	 internally we can see this..
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 Day-I
+Manual Testing
+--------------
+Phasel : Testing concepts
+Phase2: Project work
+Phase3: Tools
+
+Agile --> jira tool
+
+
+Phase-I : Software Testing Concepts
+
+SDLC & STLC
+QA & QC
+Static Testing & Dynamic Testing
+Verification & Validation
+Different Levels of Software Testing
+White Box & Black Box Testing
+Functional & Non-Functional Testing-Types
+Re-Testing & Regression testing
+Exploratory Testing
+Adhoc Testing
+Sanity & Smoke Testing
+End-To-End Testing
+Test Design Techniques
+Use case, Test scenario & Test case
+Defect Reporting
+
+Phase-2: Software Testing Project
+
+Requirement Analysis (BRS and FRS review)
+Test strategy and Test Plan
+Creating Test Specifications
+Test Scenario Preparation
+Test Case Preparation
+Test Data Preparation
+Peer review
+Requirement Traceability Matrix
+Introduction to Test Managernent & Bug Tracking Tools
+Build Deployment 
+Conducting Build Acceptance Testing(Sanity)
+Conducting System Testing
+Formal Testing
+Ad-hoc Testing
+Exploratory Testing
+Re-testing
+Regression Testing
+End-To-End testing
+Defect Tracking & Defect Reporting
+Generating Excel Reports
+Status Reports
+Preparing Test Sutnrnary Reports and Test Closure
+
+Phase3: Agile Tool Jire
+
+Yesterday Topic:
+----------------
+Drag and drop
+Static web table
+dynamic web table
+File upload
+
+Today Topic:
+------------
+Maximize,Headless browser,page refresh
+multiple windows
+Date picker
+Handling download
+
+Wednesday Topic:
+----------------
+Tooltip
+Sikuli tool
+Java script executor
+ -Get title
+ -Front & Back navigation
+ -alert popup
+ 
+Thursday Topic:
+---------------
+STLC-V model
+Static Testing
+Dynamic Testing
+Review
+Walkthrough
+Inspections
+
+Friday Topic:
+-------------
+Test Design Technicques
+ -Boundary value Analysis
+ -Equivalence class partitioning
+ -Decision Table based testing
+ -State Transition
+ -Error guessing
+ 
+Basics:
+
+"The Intelligent Investor" by Benjamin Graham,
+"A Random Walk Down Wall Street" by Burton G. Malkiel,
+"One Up On Wall Street" by Peter Lynch.
+
+
+Courses: Enroll in online courses from platforms like 
+
+Coursera,
+Udemy, 
+Khan Academy that cover the fundamentals of the stock market.
+
+News: Yahoo Finance, Bloomberg, and CNB
+
+Practice with Simulators
+Use stock market simulators like Investopedia's Stock Simulator,
+Wall Street Survivor,
+MarketWatch's Virtual Stock Exchange to practice trading without real financial risk.
+
+
+
+
+
+
+
+ 	
+
+
+
+WebElement order = driver.findElement(By.xpath(prp.getProperty("order")));
+	    order.click();
+WebElement customername = driver.findElement(By.xpath(prp.getProperty("customername")));
+		 customername.sendKeys(Customerdata);
+		 
+	WebElement street  = driver.findElement(By.xpath(prp.getProperty("streetname")));
+		    street.sendKeys(Streetdata);
+	WebElement city = driver.findElement(By.xpath(prp.getProperty("city")));
+		    city.sendKeys(Citydata);
+	WebElement state = driver.findElement(By.xpath(prp.getProperty("state")));
+	    state.sendKeys(Statedata);
+WebElement zip = driver.findElement(By.xpath(prp.getProperty("zip")));
+	    zip.sendKeys(Zibdata);
+		
+		hooks-@Before & @After & Background
+		
+		
+		
+		Manster
+		classdore
+		
+4 type of java application:
+  1,Standalone/desktop/windows 
+  2,web application
+  3,Enterprise Application
+  4,Mobile Application
+  
+  
+  https://github.com/Parthi200/Automation-Framework.git
+
+
+F & B Pos
+
+    value 2 types
+	1,object
+	2,primitive data type
+	
+
+2, primitive data types 7
+
+Number-integer and decimals
+string 
+Boolean 
+undefined - ex let child;
+Null 
+Symbol (now we are not using)
+Bigint
+
+declaration type
+   const
+   let
+   var
+  data type
+ operation
+ functions
+ oops
+ callback functions
+ promissese
+ async await
+ 
+ 
+ 
+ Excel:
+ ------
+ ctrl + shift + L =To apply for filter			
+ 
+ Practice program:
+ -----------------
+ whatever they are giveing the data i need to use this one(=Left(column number,len(same column number)-whatever charcter we need to remove))
+ 
+ This is for orginal data (=VLookup(column number,nextpage all data,Then how many column you want give that,0))
+ 
+ Assessment:
+ -----------
+ This is for main data we need to use =VLookup(column number,nextpage all data,Then how many column you want give that,0)
+ 
+ =Round(Column number,0)&"%"
+ 
+ 
+ Hacker Rank Ids is not there means we will trim/cut the email with
+-------------------------------------------------------------------- 
+ Trim/cut : =lefr(column number(Email),(len(column number(Email))-how many characters you want to remove)
+ 
+ after complete the left formala we needs to select the near column  :=VLookup(column number,nextpage all data,Then how many column you want give that,0)
+		   
+ Hackerrank is there: 
+ --------------------
+ =VLookup(column number(H,ID),nextpage all data,Then how many column you want give that,0)
+ 
+ =(Cl Num/Value)
+ 
+ 23A55A550103
+
+ 
+ 
+ 
+ Git-->https://github.com/Parthi200/Automation-Project.git
+ 
+ git clone URL--> git repository clone with local file 
+ git add .  -->  git globle repository la add aga
+ git commit -m "give messege"--> ready to push
+ git push-->
+ 
+ jul-aug-2024-ccc-aitam-po-2026-problem-solving-beta--> Beta
+ 
+ 
+ Git -->https://github.com/Parthi200/Automation-cucumber.git
+        https://github.com/Parthi200/AutomationFramework.git
+ 
+ 
+ 
+
+ Students' Practice links:
+Batches 1 and 2:  - BETA
+https://tinyurl.com/2sn9w47t
+
+Batches 3 and 4: - GAMMA
+https://tinyurl.com/57pjd5dk
+
+cluster-1-->187
+cluster-2-->152
+cluster-3-->134
